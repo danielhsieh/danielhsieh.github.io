@@ -1,2 +1,4 @@
 	name: Daniel Hsieh
 	markdown: kramdown
+
+theme: jekyll-theme-minimal
