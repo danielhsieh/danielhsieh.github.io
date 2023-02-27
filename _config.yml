@@ -2,3 +2,4 @@ name: Daniel Hsieh
 markdown: kramdown
 title: Welcome to Daniel's Homepage!
 theme: jekyll-theme-minimal
+permalink: /blog/:year/:month/:day/:title
