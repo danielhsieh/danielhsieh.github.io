@@ -1,0 +1,10 @@
+name: vancouver_shiny
+title:
+username: danielhsieh
+account: danielhsieh
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10419275
+bundleId: 7890636
+url: https://danielhsieh.shinyapps.io/vancouver_shiny/
+version: 1
