@@ -1,6 +1,9 @@
 #R-shinyapps.io
-library(shiny)
-library(rsconnect)
+require(shiny)
+require(rsconnect)
+require(rmarkdown)
+require(DT)
+require(googlesheets4)
 
 #get working directory
 getwd()
@@ -12,3 +15,12 @@ runApp()
 
 #deploying app
 deployApp()
+
+#check logs
+rsconnect::showLogs()  #streaming=TRUE; to see live logs
+
+#reconfig app
+rsconnect::configureApp("APPNAME", size="small")
+
+#undeploy; will remain archived in your shinyapps.io account
+terminateApp("<your app's name>")
