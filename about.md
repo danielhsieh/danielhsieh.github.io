@@ -1,6 +1,6 @@
 ---
+title: "About"
 layout: default
-title: About
 ---
 
 # *A bit about me* {#sec-a-bit-about-me}

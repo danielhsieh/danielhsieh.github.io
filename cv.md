@@ -3,31 +3,31 @@ layout: default
 title: Summary of my work
 ---
 
-## Background
+#### Background
 
 -   Senior Product Analyst, Central Pharmacy Systems (Current)
 
--   Senior Business Systems Specialist, Product Delivery
+-   Senior Business Systems Specialist, EHR Product Delivery
 
--   Customer Success Manager
+-   Customer Success Manager, CRM
 
--   Business Analyst, Business Delivery
+-   Business Analyst, IAM Business Delivery
 
-## Skills
+#### Skills
 
-### Product Management
+##### Product Management
 
 Product Analyses, Product Strategy, User Journey Mapping, Requirements Gathering, UI/UX Design
 
-### Project Delivery
+##### Project Delivery
 
 Project Planning, Change and Risk Management, Stakeholder Engagement, Agile Project Delivery
 
-### Analysis
+##### Analysis
 
 Data Cleansing, Transformation, and Visualization (SQL, R, Tableau, PowerBI)
 
-## Education
+#### Education
 
 -   **Masters of Health Informatics** (MHI), University of Waterloo (2019 -- 2021)
 

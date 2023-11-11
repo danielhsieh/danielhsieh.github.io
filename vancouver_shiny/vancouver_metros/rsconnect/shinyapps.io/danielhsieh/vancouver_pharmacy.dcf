@@ -1,0 +1,12 @@
+name: vancouver_pharmacy
+title: vancouver_pharmacy
+username: danielhsieh
+account: danielhsieh
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10465149
+bundleId: 7905908
+url: https://danielhsieh.shinyapps.io/vancouver_pharmacy/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
