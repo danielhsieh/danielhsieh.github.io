@@ -12,10 +12,13 @@ vancouver_stations <- opq(bbox = bbox_vancouver) %>%
 #convert to df
 vancouver_stations<-vancouver_stations$osm_points
 #convert the sfc_point data.class into numeric values in a matrix
-van_stations_coords<-st_coordinates(vancouver_stations$geometry)
-#append the matrix columns as new variables in the data.frame
-vancouver_stations$lon <- van_stations_coords[,1]
-vancouver_stations$lat <- van_stations_coords[,2]
+vancouver_stations$lon<-st_coordinates(vancouver_stations$geometry)[,1]
+vancouver_stations$lat<-st_coordinates(vancouver_stations$geometry)[,2]
+
+st_write(vancouver_stations, "~/danielhsieh.github.io/vancouver_shiny/vancouver_metros/vancouver_stations.csv")
+vancouver_stations<-st_read("vancouver_stations.csv")
+vancouver_stations <- st_as_sf(vancouver_stations, coords = c("lon", "lat"), crs = 4326)
+class(vancouver_stations)
 
 ###create a function that iterates across all the layers
 get_osm_data <- function(df, i) { 
@@ -67,4 +70,3 @@ map_osm_data <- function(df,i) {
     tm_view(set.view = c(df$lon[i],df$lat[i],16))
 }
 
-map_osm_data(vancouver_stations,1)

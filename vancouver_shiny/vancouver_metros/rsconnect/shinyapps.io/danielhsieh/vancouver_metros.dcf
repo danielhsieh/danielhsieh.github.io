@@ -1,0 +1,13 @@
+name: vancouver_metros
+title: vancouver_metros
+username: danielhsieh
+account: danielhsieh
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10493475
+bundleId: 7915706
+url: https://danielhsieh.shinyapps.io/vancouver_metros/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: vancouver_skytrain_map.R

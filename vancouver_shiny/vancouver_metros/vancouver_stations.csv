@@ -1,0 +1,55 @@
+osm_id,name,network,railway,start_date,subway,lon,lat
+"25325833",Gilmore,TransLink,station,2002-08-31,yes,-123.013418,49.2650043
+"25751159",Main Street–Science World,TransLink,station,1986-01-03,yes,-123.1004436,49.2731524
+"258029290",Brentwood Town Centre,TransLink,station,2002-08-31,yes,-123.001723,49.2664016
+"891472023",Port Coquitlam,TransLink,station,,,-122.7740946,49.2614762
+"3831781786",Waterfront,TransLink,station,1986-01-03,yes,-123.1122198,49.2861789
+"3956040169",Lougheed Town Centre,TransLink,station,2002-08-31,yes,-122.8968482,49.2484558
+"3956055739",Bridgeport,TransLink,station,2009-08-18,yes,-123.125937,49.195606
+"5324415604",Gateway,TransLink,station,1994-03-28,yes,-122.850605,49.1991139
+"5324415606",Surrey Central,TransLink,station,1994-03-28,yes,-122.847876,49.1895143
+"5324432723",King George,TransLink,station,1994-03-28,yes,-122.8447317,49.1827755
+"5324453350",Scott Road,TransLink,station,1990-03-16,yes,-122.8741266,49.2044338
+"5324471829",Columbia,TransLink,station,1989-02-14,yes,-122.9061329,49.2048182
+"5324488092",Sapperton,TransLink,station,2002-01-05,yes,-122.8895213,49.224545
+"5324519662",New Westminster,TransLink,station,1986-01-03,yes,-122.9127416,49.20137
+"5324525267",22nd Street,TransLink,station,1986-01-03,yes,-122.949015,49.2000649
+"5324545412",Edmonds,TransLink,station,1986-01-03,yes,-122.959233,49.2121286
+"5324551029",Royal Oak,TransLink,station,1986-01-03,yes,-122.988416,49.2200742
+"5324559457",Metrotown,TransLink,station,1986-01-03,yes,-123.0038944,49.2258524
+"5324568678",Patterson,TransLink,station,1986-01-03,yes,-123.012788,49.2298294
+"5324581126",Joyce–Collingwood,TransLink,station,1986-01-03,yes,-123.031678,49.2383663
+"5324590526",Nanaimo,TransLink,station,1986-01-03,yes,-123.0560202,49.248374
+"5324600053",29th Avenue,TransLink,station,1986-01-03,yes,-123.0459222,49.2442084
+"5324621993",VCC–Clark,TransLink,station,2006-01-06,yes,-123.079141,49.2658292
+"5324635042",Granville,TransLink,station,1986-01-03,yes,-123.1160432,49.2832289
+"5324635405",Stadium–Chinatown,TransLink,station,1986-01-03,yes,-123.109311,49.279398
+"5324651729",Burrard,TransLink,station,1986-01-03,yes,-123.1198152,49.2856364
+"5324667872",Braid,West Coast Express,station,2002-01-05,yes,-122.882775,49.2331095
+"5324685228",Production Way–University,TransLink,station,2002-08-31,yes,-122.918146,49.2534219
+"5324689532",Lake City Way,TransLink,station,2003-11-21,yes,-122.9392748,49.2546106
+"5324716725",Sperling–Burnaby Lake,TransLink,station,2002-08-31,yes,-122.9640609,49.259194
+"5324719980",Holdom,TransLink,station,2002-08-31,yes,-122.9819512,49.2647247
+"5324730259",Rupert,TransLink,station,2002-08-31,yes,-123.0330982,49.260712
+"5324734517",Renfrew,West Coast Express,station,2002-08-31,yes,-123.045255,49.2589451
+"5324737128",Burquitlam,TransLink,station,2016-12-02,yes,-122.8899378,49.2613309
+"5324742207",Coquitlam Central,TransLink,station,2016-12-02,yes,-122.8009101,49.2748886
+"5324748888",Aberdeen,TransLink,station,2009-08-18,yes,-123.136316,49.1839817
+"5324785127",Lansdowne,TransLink,station,2009-08-18,yes,-123.1364653,49.174568
+"5324786154",Richmond–Brighouse,TransLink,station,2009-08-18,yes,-123.1362733,49.1681069
+"5324792504",Templeton,TransLink,station,2009-08-18,yes,-123.1464661,49.1966743
+"5324793019",Sea Island Centre,TransLink,station,2009-08-18,yes,-123.1579366,49.1930194
+"5324798857",Olympic Village,TransLink,station,2009-08-18,yes,-123.1156986,49.2665609
+"5324814227",Marine Drive,TransLink,station,2009-08-18,yes,-123.1169672,49.2096366
+"5324820129",Oakridge-41st Avenue,TransLink,station,2009-08-18,yes,-123.1166166,49.2331614
+"5324820954",Langara-49th Avenue,TransLink,station,2009-08-18,yes,-123.11609,49.2262741
+"5324825482",King Edward,TransLink,station,2009-08-18,yes,-123.1158299,49.2491759
+"5324830285",Broadway–City Hall,TransLink,station,2009-08-18,yes,-123.11451,49.2628399
+"5324837598",Yaletown–Roundhouse,TransLink,station,2009-08-18,yes,-123.121905,49.2745376
+"5324838897",Vancouver City Centre,TransLink,station,2009-08-18,yes,-123.1189844,49.2820548
+"5325408472",Inlet Centre,West Coast Express,station,2016-12-02,yes,-122.827985,49.2771919
+"5325408927",Moody Centre,West Coast Express,station,2016-12-02,yes,-122.845511,49.2779402
+"5325411924",Lincoln,TransLink,station,2016-12-02,yes,-122.7940158,49.2803689
+"5325411930",Lafarge Lake–Douglas,TransLink,station,2016-12-02,yes,-122.7917373,49.2854711
+"5330999693",YVR–Airport,TransLink,station,2009-08-18,yes,-123.178347,49.1942382
+"8576664379",Commercial–Broadway,TransLink,station,2002-08-31,yes,-123.0684944,49.2629509
