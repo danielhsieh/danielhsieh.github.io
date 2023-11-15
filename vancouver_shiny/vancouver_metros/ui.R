@@ -2,6 +2,8 @@ library(shiny)
 library(osmdata)
 library(tmap)
 library(sf)
+library(dplyr)
+
 
 #read from csv
 vancouver_stations<-st_read("vancouver_stations.csv")
@@ -18,11 +20,14 @@ fluidPage(
            wellPanel(
              h4("Filters"),
              selectInput("station", "Select Skytrain Station:", 
-                         choices = sort(vancouver_stations$name))
+                         choices = sort(vancouver_stations$name)),
+             plotOutput(outputId = "buildingLevelsPlot",height = "300px"),
+             plotOutput(outputId = "buildingAreaPlot",height = "300px")
            )
     ),
     column(9,
-           tmapOutput(outputId = "tmapMap")
+           tmapOutput(outputId = "tmapMap"),
+           plotOutput(outputId = "levelsdistancePlot")
            )
   )
 )
